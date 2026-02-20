@@ -1,0 +1,7 @@
+{
+    "Core": true,
+    "Level": true,
+    "Course": true,
+    "Enrollment": true,
+    "Progres": true
+}
